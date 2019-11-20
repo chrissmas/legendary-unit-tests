@@ -1,7 +1,7 @@
 ## Automatic unit testing
 
 This is a little project showing how to avoid writing unit tests manually. 
-Instead the in- and output data of a function is recorded and saved to a database.
+Therefore the in- and output data of a function is recorded and saved to a database.
 
 After changes on the functions, this data can be used to test if still the same outputs are produced. 
 
